@@ -36,6 +36,10 @@
         "renameExt": {
           "description": "To rename *.js files that are not *.user.js to become *.user.js",
           "type": "boolean"
+        },
+        "rawHeaderString": {
+          "description": "Raw text content for script header",
+          "type": "string"
         }
       },
       "additionalProperties": false
