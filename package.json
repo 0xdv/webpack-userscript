@@ -1,10 +1,10 @@
 {
-  "name": "webpack-userscript",
-  "version": "2.3.1",
+  "name": "@0xdv/webpack-userscript",
+  "version": "2.3.2",
   "description": "A Webpack4+ plugin for userscript projects.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/momocow/webpack-tampermonkey.git"
+    "url": "git+https://github.com/0xdv/webpack-userscript.git"
   },
   "main": "lib/index.js",
   "scripts": {
@@ -22,9 +22,9 @@
   "author": "MomoCow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/momocow/webpack-tampermonkey/issues"
+    "url": "https://github.com/0xdv/webpack-userscript/issues"
   },
-  "homepage": "https://github.com/momocow/webpack-tampermonkey#readme",
+  "homepage": "https://github.com/0xdv/webpack-userscript#readme",
   "devDependencies": {
     "@semantic-release/git": "^7.0.16",
     "eslint": "^5.15.3",
